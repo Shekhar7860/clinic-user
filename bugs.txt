@@ -1,0 +1,24 @@
+User App-------
+Vet appointment m offline nhi aayega - Done
+
+Clinic name ka label nhi aayega ye kha se add kr diya h - Done
+
+Pre order confirmation m change nhi hua h
+
+Payment gateway gayab ho gya h abi is build m
+
+Pet profile save k pet type null ho rha h - Done
+
+Forgot password - Done
+
+New password - Done
+
+
+Pet profile at home page or every page - Done
+
+Last name is not mandatory - Done
+
+Pet profile ki 3 tab not working at the time of post as well as get - Done
+
+Vendor App---------
+Clinic add multiple doctors ye point b nhi hua h
